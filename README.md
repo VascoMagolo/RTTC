@@ -32,8 +32,8 @@ The application is organized into key modules:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/rttc-app.git](https://github.com/your-username/rttc-app.git)
-    cd rttc-app
+    git clone [https://github.com/VascoMaoglo/rttc.git](https://github.com/your-username/rttc.git)
+    cd rttc
     ```
 
 2.  **Install dependencies**
@@ -46,6 +46,7 @@ The application is organized into key modules:
     ```env
     EXPO_PUBLIC_SUPABASE_URL=your_supabase_url
     EXPO_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
+    EXPO_PUBLIC_RAPIDAPI_KEY
     ```
 
 4.  **Run the application**
