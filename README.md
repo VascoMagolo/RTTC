@@ -46,7 +46,7 @@ The application is organized into key modules:
     ```env
     EXPO_PUBLIC_SUPABASE_URL=your_supabase_url
     EXPO_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
-    EXPO_PUBLIC_RAPIDAPI_KEY
+    EXPO_PUBLIC_RAPIDAPI_KEY=your_rapidapi_key
     ```
 
 4.  **Run the application**
